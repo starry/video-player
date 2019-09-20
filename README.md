@@ -1,4 +1,4 @@
-# smiple-vue-player
+# video-player
 
 ## Project setup
 ```
